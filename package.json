@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/emkquinn/Trip-Planner#readme",
   "dependencies": {
+    "mapbox-gl": "^0.51.0",
     "nodemon": "^1.18.6"
   },
   "devDependencies": {
